@@ -1,0 +1,1 @@
+"""DrugAI — Core package."""
