@@ -411,10 +411,4 @@ Licensed under the **MIT License**.
 
 ---
 
-<div align="center">
 
-### ⭐ If you found this project useful, consider giving it a star!
-
-**Happy Coding 🚀**
-
-</div>
