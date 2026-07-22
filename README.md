@@ -323,21 +323,6 @@ VITE_API_BASE_URL=http://localhost:8000/api/v1
 | Explainable AI | SHAP + LIME |
 | Experiment Tracking | MLflow |
 
----
-
-# 📸 Screenshots
-
-> Replace these placeholders with actual screenshots.
-
-🖼 Landing Page
-
-🖼 Dashboard
-
-🖼 Toxicity Prediction
-
-🖼 Drug–Target Interaction
-
-🖼 Analytics
 
 ---
 
